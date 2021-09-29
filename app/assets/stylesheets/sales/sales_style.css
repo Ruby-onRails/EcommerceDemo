@@ -1,0 +1,18 @@
+body {
+
+    background-color: #00c8c8;
+
+}
+h1 {
+
+    text-align: center;
+
+    color: #ffffff;
+
+}
+.test{
+    font-style: italic;
+    font-size: 35px;
+    color: chartreuse;
+
+}
