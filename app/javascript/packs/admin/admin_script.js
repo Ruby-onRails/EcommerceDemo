@@ -1,1 +1,1 @@
-alert('From admin');
+console.log("hello admin")
