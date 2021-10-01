@@ -9,5 +9,4 @@ require("@rails/activestorage").start()
 require("channels")
 require("jquery")
 import "bootstrap"
-//= require_tree ../admin
-import "../../../../vendor/assets/javascripts/custom"
+import "./admin_script"
